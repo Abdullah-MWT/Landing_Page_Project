@@ -1,0 +1,64 @@
+@media (min-width: 200px) and (max-width: 575px) {
+  .btn-outet {
+    width: 100%;
+    position: fixed;
+    background-color: white;
+    padding: 5px 0px;
+    bottom: 0;
+    left: 0;
+    justify-content: center !important;
+  }
+
+  .btn-watsapp,
+  .btn-call {
+    padding: 7px 15px;
+    font-size: 14px;
+    justify-content: center;
+  }
+
+  .banner-content h1 {
+    font-size: 35px;
+    text-align: center;
+    line-height: 45px;
+  }
+
+  /* .banner-content ul, .banner-content p{
+        justify-content: center;
+      } */
+
+  .banner-content p,
+  .banner-content ul li {
+    font-size: 16px;
+  }
+
+  .banner-content-btn {
+    flex-direction: column;
+  }
+
+  .banner-content-btn button {
+    width: 100%;
+  }
+
+  .banner-form {
+    padding: 20px;
+  }
+
+  .highlights-section h2{
+    font-size: 28px;
+  }
+
+  .career-section h2{
+    font-size: 28px;
+  }
+}
+
+@media (min-width: 1400px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1170px;
+  }
+}

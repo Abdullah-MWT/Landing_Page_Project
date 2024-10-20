@@ -1,0 +1,204 @@
+*{
+    font-family: "Inter", sans-serif;
+}
+
+.btn-watsapp{
+    border: 1px solid #27AE60;
+    padding: 10px 18px;
+    color: #27AE60;
+}
+
+.btn-watsapp i{
+    color: #27AE60;
+    size: 30px;
+    padding: 5px;
+}
+
+.btn-watsapp:hover{
+    border: 1px solid #27AE60;
+    color: #27AE60;
+}
+
+.btn-call{
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    padding: 10px 18px;
+    border: 1px solid #27AE60;
+    color: white;
+}
+
+.btn-call:hover{
+    border: 1px solid #27AE60;
+    
+}
+
+.banner-content h1{
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.banner-content h1 span{
+    color: #2699FB;
+     text-shadow: 4px 4px 10px #89e6fd;
+    /* background: url("../assets/images-removebg-preview.png") no-repeat right; */
+}
+
+.banner-content p{
+   font-size: 22px;
+}
+
+.banner-content ul{
+    list-style: none;
+
+}
+
+.banner-content ul li{
+    font-size: 22px;
+}
+
+.banner-content ul li i{
+    color: #2699FB;
+    padding-right: 10px;
+}
+
+.banner-content-btn button{
+    width: 50%;
+    padding: 10px 0px;
+    border-radius: 5px;
+}
+
+.banner-content-btn button:first-child{
+    color: white;
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+}
+
+.banner-form{
+    margin-top: 20px;
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.banner-form h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.banner-form button{
+    background: linear-gradient(to right, #0ACEFE, #2699FB);
+    width: 100%;
+    padding: 10px 0px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+.counterSection h2{
+    font-size: 30px;
+    font-weight: 700;
+    color: #2699FB;
+}
+
+.highlights-section{
+    background-color: #F7FAFF;
+}
+
+.highlights-section h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.highlights-section p{
+    font-size: 18px;
+}
+
+.highlights-section i{
+    font-size: 40px;
+    padding: 20px;
+}
+
+.Highlight-items h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.Highlight-items p{
+  font-size: 15px;
+}
+
+.item1{
+    background-color: #d1f6ff;
+}
+
+.item2{
+    background-color: rgb(246, 223, 179);
+}
+
+.item3{
+    background-color:rgba(231, 182, 255, 0.897);
+} 
+
+.item4{
+   background-color: rgb(218, 254, 165);
+}
+
+.item5{
+    background-color: rgba(215, 172, 255, 0.928);
+}
+
+.item6{
+    background-color: rgb(255, 168, 168);
+}
+
+.lastbtn{
+    text-align: center;
+    justify-content: center;
+    border: none;
+    padding: 10px 20px !important;
+}
+
+.career-section{
+    background-color: #F7FAFF;
+}
+
+.career-section h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.career-section p{
+    text-align: center;
+}
+
+.career-section i{
+    font-size: 30px;
+    color: #0ACEFE;
+}
+
+.career-items h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.career-items p{
+    font-size: 15px;
+    text-align: start;
+  }
+
+  .certification-section{
+    background-color: #F7FAFF;
+  }
+
+  .certification-section h2{
+    color: #0A2134;
+    font-size: 36px;
+    font-weight: 700;
+  }
+
+  .certification-section i{
+    font-size: 40px;
+    padding: 20px;
+  }
+
+  
