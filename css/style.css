@@ -176,6 +176,10 @@
     color: #0ACEFE;
 }
 
+.career-items{
+    padding: 20px 50px;
+}
+
 .career-items h4{
     font-size: 20px;
     font-weight: 600;
@@ -196,9 +200,59 @@
     font-weight: 700;
   }
 
-  .certification-section i{
-    font-size: 40px;
-    padding: 20px;
+  .certification-section h4{
+    font-size: 20px;
+    font-weight: 600;
   }
 
+  /* .certification-section i{
+    font-size: 40px;
+    padding: 20px;
+  } */
+
+  .certi-item1{
+    padding: 0px;
+    background-color: #d1f6ff;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.certi-item1 i{
+    font-size: 65px;
+    padding:10px;
+    margin: 5px;
+}
+
+.certi-item2{
+    padding: 0px;
+    background-color: rgb(246, 223, 179);
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.certi-item2 i{
+    font-size: 65px;
+    padding:10px;
+}
+
+.certi-item3{
+    padding: 0px;
+    background-color:rgba(231, 182, 255, 0.897);
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.certi-item3 i{
+    font-size: 65px;
+    padding:10px;
+}
+
+.img-certi{
+    width: 500px;
+    height: 650px;
+    margin-left: 50px;
+}
   
